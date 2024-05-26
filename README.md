@@ -1,10 +1,12 @@
 # Generative vs. Predictive Models in Massive MIMO Channel Prediction
 
+This repo is the implementation of our paper ["Generative vs. Predictive Models in Massive MIMO Channel Prediction"], which is under review.
+
+
 ## Highlights
 - This work evaluates AE-based Generative and Predictive models, finding that Generative models excel in noisy settings. 
 - Furthermore, we introduce a Vector Quantization (VQ)-based generative AE model (VQ-VAE) specifically for noisy mMIMO channel prediction. 
 - The VQ-VAE model significantly surpasses traditional AE and other generative models, achieving up to approximately 15 [dB] NMSE accuracy gains over standard AEs and about 9 [dB] over VAE models.
-
 
 <div align="center">
 <img src="figure/fig1.png" alt="overview_vqvae" width="600" style="float:center" />
