@@ -1,6 +1,6 @@
 # Generative vs. Predictive Models in Massive MIMO Channel Prediction
 
-This repo is the implementation of our paper ["Generative vs. Predictive Models in Massive MIMO Channel Prediction"], which is under review.
+This repo is the implementation of our paper "Generative vs. Predictive Models in Massive MIMO Channel Prediction", <em>currently under review</em>.
 
 
 ## Highlights
@@ -16,14 +16,14 @@ This repo is the implementation of our paper ["Generative vs. Predictive Models 
 ## Results
 
 ### Comparative Analysis: 
-- [Qualitative Analysis] Comparison of Prediction Results from Generative and Predictive Models under Good (γ = 30 [dB]) and Noisy (γ = 0 [dB]) Channel Conditions (Latent dim. = 64).
+- [Qualitative Analysis] Comparison of Prediction Results from Generative and Predictive Models under Good ($γ$ = 30 [dB]) and Noisy ($γ$ = 0 [dB]) Channel Conditions (Latent dim. = 64).
 <div align="center">
 <img src="figure/fig2.png" alt="overview_vqvae" width="400" style="float:center" />
 </div>
 
 ### OOD (Out-of-Distribution) Resultss
 
-- [Generalization Capability] Prediction Results of the Proposed VQ-VAE on Out-Of-Distribution (OOD) Channels (γ = 30 [dB], Latent dim. = 64).
+- [Generalization Capability] Prediction Results of the Proposed VQ-VAE on Out-Of-Distribution (OOD) Channels ($γ$ = 30 [dB], Latent dim. = 64).
 <div align="center">
 <img src="figure/fig3.png" alt="overview_vqvae" width="400" style="float:center" />
 </div>
