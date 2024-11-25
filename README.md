@@ -1,6 +1,6 @@
 # Generative vs. Predictive Models in Massive MIMO Channel Prediction
 
-This repo is the implementation of our paper "Generative vs. Predictive Models in Massive MIMO Channel Prediction", <em>currently under review</em>.
+This repo includes the selected results of our paper "Generative vs. Predictive Models in Massive MIMO Channel Prediction", <em>presented at Asilomar 2024</em>.
 
 
 ## Highlights
@@ -30,8 +30,10 @@ This repo is the implementation of our paper "Generative vs. Predictive Models i
 
 ### Complexity Analysis
 
-| #       | Inference time [s] | Training time [s]  | Memory [MB]  |
-| ------- | ------------------ | ------------------ | ------------ |
-| AE      | 3.374              | 329                | 358          |
-| VAE     | 4.442              | 691                | 838          |
-| VQ-VAE  | 5.340              | 1448               | 3776          |
+| #       | Inference time [s] | Memory [MB]  | 
+| ------- | ------------------ | ------------ | 
+| AE      | 3.374              | 62.67          | 
+| VAE     | 4.442              | 108.59          | 
+| VQ-VAE  | 5.340              | 175.20          | 
+| ------- | ------------------ | ------------ | 
+| Diffusion (DDPM)  | 122.624              | 1385.41          | 
