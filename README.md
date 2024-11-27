@@ -2,7 +2,7 @@
 
 This repo includes the selected results of our paper "Generative vs. Predictive Models in Massive MIMO Channel Prediction", <em>presented at Asilomar 2024</em>.
 
-<img src="figure/C_Poster_GenAI_ChEst_Asilomar2024.pdf" alt="poster" style="float: left;" />
+<img src="figure/C_Poster_GenAI_ChEst_Asilomar2024.jpg" alt="poster" style="float: left;" />
 
 ## Citation
 
