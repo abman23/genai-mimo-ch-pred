@@ -7,7 +7,7 @@ This repo includes the selected results of our paper "Generative vs. Predictive 
 ## Citation
 
 ```bash
-@misc{lee2024seq2seqSC,
+@misc{lee2024generative,
     author = {Ju-Hyung Lee and Joohan Lee and Andreas F. Molisch},
     title = {Generative vs. Predictive Models in Massive {MIMO} Channel Prediction},
     journal={arXiv preprint arXiv:2411.16971},
@@ -48,4 +48,4 @@ This repo includes the selected results of our paper "Generative vs. Predictive 
 | VAE     | 4.442              | 108.59          | 
 | VQ-VAE  | 5.340              | 175.20          | 
 | ------- | ------------------ | ------------ | 
-| Diffusion (DDPM)  | 122.624              | 1385.41          | 
+| Diffusion (DDPM)  | 122.624              | 1385.41    | 
