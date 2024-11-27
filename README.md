@@ -2,6 +2,18 @@
 
 This repo includes the selected results of our paper "Generative vs. Predictive Models in Massive MIMO Channel Prediction", <em>presented at Asilomar 2024</em>.
 
+<img src="figure/poster_seq2seq_Asilomar2023.jpg" alt="poster" style="float: left;" />
+
+## Citation
+
+```bash
+@misc{lee2024seq2seqSC,
+    author = {Ju-Hyung Lee and Joohan Lee and Andreas F. Molisch},
+    title = {Generative vs. Predictive Models in Massive {MIMO} Channel Prediction},
+    journal={arXiv preprint arXiv:2411.16971},
+    year = {2024},
+}
+```
 
 ## Highlights
 - This work evaluates AE-based Generative and Predictive models, finding that Generative models excel in noisy settings. 
